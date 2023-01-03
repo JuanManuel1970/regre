@@ -7,7 +7,7 @@ simplyCountdown('#cuenta', {
 	seconds: 0, // Default is 0 [0-59] integer
 	words: { //words displayed into the countdown
 		days: 'Días',
-		hours: 'Hora',
+		hours: 'Horas',
 		minutes: 'Minutos',
 		seconds: 'Segundos',
 		pluralLetter: ''

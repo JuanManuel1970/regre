@@ -99,7 +99,10 @@ h1	{font-size: 150px;font-family: Impact, Haettenschweiler, 'Arial Narrow Bold',
 	font-size: 30px;
 }
 
+.container .portada h3{
+font-size: 20px;
 
+}
 
 
 .redes-sociales .btn-red-social:hover {
